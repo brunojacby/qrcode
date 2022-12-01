@@ -11,7 +11,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: https://github.com/brunojacby/qrcode
-- Live Site URL: 
+- Live Site URL: https://qrcode-two-pied.vercel.app/
 
 ### Built with
 
